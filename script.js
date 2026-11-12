@@ -1,3 +1,3 @@
 function showHello(){
-    alert('Hello, KCG!');
+    alert('Hello');
 }
